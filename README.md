@@ -41,9 +41,111 @@ Matplotlib is a Python library used for creating static, animated, and interacti
 - [YouTube Tutorial: Matplotlib Basics](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 - [Matplotlib Cheat Sheet by DataCamp](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 
+## WEEK 2 - OpenCV and Deep Computer Vision
+
+### Objective:
+This week focuses on learning OpenCV, a powerful library for computer vision tasks. You will start from the basics, such as reading images and videos, and progress to advanced concepts like edge detection, color spaces, and face recognition. By the end, you’ll apply your skills to build a deep computer vision model for character classification from "The Simpsons."
+
 ---
+
+### ⭐️ Resources ⭐️
+
+1. **Video Tutorial:**
+   - [Full OpenCV Course](https://www.youtube.com/watch?v=01sAkU_NvOY&t=21686s)
+
+2. **Reference Articles:**
+   - [GeeksforGeeks OpenCV Python Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/)
+
+---
+
+### ⭐️ Course Contents ⭐️
+
+#### **Introduction**
+- Overview of the course and what you’ll learn.
+- Installing OpenCV and Caer libraries.
+
+---
+
+#### **Section #1 - Basics**
+- Reading Images & Video  
+- Resizing and Rescaling Frames  
+- Drawing Shapes & Putting Text  
+- 5 Essential Functions in OpenCV  
+- Image Transformations  
+- Contour Detection  
+
+---
+
+#### **Section #2 - Advanced**
+- Color Spaces  
+- Color Channels  
+- Blurring  
+- BITWISE Operations  
+- Masking  
+- Histogram Computation  
+- Thresholding / Binarizing Images  
+- Edge Detection  
+
+---
+
+#### **Section #3 - Faces**
+- Face Detection with Haar Cascades  
+- Face Recognition with OpenCV's built-in recognizer  
+
+---
+
+#### **Section #4 - Capstone**
+- Deep Computer Vision: Classifying Characters from "The Simpsons"
 
 ### Notes:
 - Practice coding alongside the tutorials.
 - Don’t hesitate to ask any doubts to us.
+
+## WEEK 3 - Advanced Computer Vision and Projects
+
+### Objective:
+This week, you will delve into advanced computer vision techniques, learning state-of-the-art methods and implementing them in practical projects. Using libraries like OpenCV and Mediapipe, you will build five exciting projects, including gesture-based volume control and an AI virtual mouse. While the concepts are advanced, they are explained in an easy-to-follow manner, making them accessible even for beginners.
+
+---
+
+### ⭐️ Resources ⭐️
+
+**Video Tutorial:** 
+     [YouTube Channel - Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
+
+---
+
+### ⭐️ Course Contents ⭐️
+
+#### **Chapter 1 - Hand Tracking**
+- Basics of Hand Tracking.
+- Creating a Hand Tracking Module.
+
+---
+
+#### **Chapter 2 - Pose Estimation**
+- Basics of Pose Estimation.
+- Creating a Pose Estimation Module.
+
+---
+
+#### **Chapter 3 - Face Detection**
+- Basics of Face Detection.
+- Creating a Face Detection Module.
+
+---
+
+#### **Chapter 4 - Face Mesh**
+- Basics of Face Mesh.
+- Creating a Face Mesh Module.
+
+---
+
+### ⭐️ Projects ⭐️
+1. Gesture Volume Control.  
+2. Finger Counter.  
+3. AI Personal Trainer.  
+4. AI Virtual Painter.  
+5. AI Virtual Mouse.  
+
 
