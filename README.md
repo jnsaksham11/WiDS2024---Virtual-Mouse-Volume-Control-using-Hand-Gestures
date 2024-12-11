@@ -45,7 +45,5 @@ Matplotlib is a Python library used for creating static, animated, and interacti
 
 ### Notes:
 - Practice coding alongside the tutorials.
-- Don't hesitate to refer back to the documentation or videos when in doubt.
-- Collaboration and asking questions are key to mastering new skills.
+- Don’t hesitate to ask any doubts to us.
 
-Happy learning!
