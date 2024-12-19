@@ -51,7 +51,7 @@ This week focuses on learning OpenCV, a powerful library for computer vision tas
 ### ⭐️ Resources ⭐️
 
 1. **Video Tutorial:**
-   - [Full OpenCV Course](https://www.youtube.com/watch?v=01sAkU_NvOY&t=21686s)
+   - [Full OpenCV Course](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 2. **Reference Articles:**
    - [GeeksforGeeks OpenCV Python Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/)
@@ -111,7 +111,7 @@ This week, you will delve into advanced computer vision techniques, learning sta
 ### ⭐️ Resources ⭐️
 
 **Video Tutorial:** 
-     [YouTube Channel - Murtaza's Workshop](https://www.youtube.com/@murtazasworkshop)
+     [YouTube Channel - Murtaza's Workshop](https://www.youtube.com/watch?v=01sAkU_NvOY&t=21929s)
 
 ---
 
